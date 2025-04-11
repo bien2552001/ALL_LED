@@ -21,7 +21,7 @@
 
 
 ## P4__80px x 40px 
--**P3.091(104×52)** : IC_(16169SH -2012)---FW v25_10_65_30---_SW(HDPLAYER,HDSET)_
+-**P4** : IC_(ICN2027 -7258)---C08L---_SW(HDPLAYER,HDSET)_
 
 
 
