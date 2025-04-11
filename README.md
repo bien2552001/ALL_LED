@@ -5,9 +5,9 @@
 # P10 
 "**P10 SEMI NEW - 1/8S : IC_MB5125 -- SW : HD2018, HD2020**"
 
-"**P10 SEMI- 1/8S       : default name -- SW : HD2018, HD2020**"
+"**P10 SEMI- 1/8S      : default name -- SW : HD2018, HD2020**"
 
-**P10 ĐỎ              : C6 --SW : HD2018, HD2020**
+**P10 ĐỎ              : C6  _SW(HD2018, HD2020)_**
 
 **P10 FULL 1/4S       : C20 --SW : HD2018, HD2020**
 
