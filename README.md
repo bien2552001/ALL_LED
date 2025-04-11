@@ -51,7 +51,7 @@
 # LED DÂY FULL
 
 ## D20 FULL 
-- **Cực màu**: GBR -- IC(8206,8208,1903)
+- **Cực màu**: GBR -- IC(8206,8208,1903)---FULL MINI,K8AC, H8
 
 ## D30 
 - **Cực màu**: GBR -- IC(8206,8208,1903)
