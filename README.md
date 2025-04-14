@@ -23,7 +23,7 @@
 ## P4__80px x 40px 
 -**P4** : IC_(ICN2037 -7258)---C08L---_SW(HDPLAYER,HDSET)_
 
-
+-**P4** : IC_(3264 -7258)------FW v25_10_65_30(R712)---_SW(HDPLAYER,HDSET)_
 
 
 ## P5__64px x 32px
