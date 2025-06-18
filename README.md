@@ -75,7 +75,15 @@
 - **Cực màu**: RBG -- IC(8206,8208,1903)-- OZO(8K) 
 
 
-
+# MẠCH ĐIỀU KHIỂN FULL OZO : 4 CỔNG , 8 CỔNG 
+- Đều xuất file thẻ nhớ -> Format ổ đĩa của mạch -> Sau đó copy file đã xuất vào trong ổ đia vừa format.
+- Khi đồng bộ nhiều mạch như sau:
+    - Ví dụ cần dùng 14 cổng
+      + Chọn 2 mạch 8 cổng ozo
+      + Chương trình gồm 16 cổng ( 14 cổng chính và 2 cổng ảo )
+      + Mạch 1 từ cổng 1 đến 7 + 1 cổng ảo(1 điểm led bất kì) , mạch 2 từ cổng 1 đến 7 + 1 cổng ảo(1 điểm led bất kì).
+      + Khi xuất chương trình để nạp cho 2 mạch -> xuất dạng file thẻ nhớ.
+      + Mạch 1 xuất từ cổng 1 sau đó lưu lại rồi bắt đầu xuất. Mạch 2 bắt đầu từ cổng 9, lưu lại rồi xuất.
 
 
 
