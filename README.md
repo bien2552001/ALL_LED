@@ -35,6 +35,7 @@
 
 -**P5 - 1/8S** : IC_(3265S_7258)---FW v9.8.7.71(C08L)---_SW(HDPLAYER,HDSET)_
 
+-**P5 - 1/10S** : IC_(FM6373-7258)---FW v25_16_65_30(R712---_SW(HDPLAYER,HDSET)_
 
 
 ## P10__32px x 16px
@@ -63,6 +64,9 @@
 ## D50 
 - **Cực màu**: GRB -- IC(8206,8208,1903)-- OZO(8K)
 
+## * Chú ý led dây full
+  + Chiều led chạy
+  + Khi led lỗi hoặc chết bóng nên kiểm tra xem còn nhận tín hiệu không , nếu không thi thay từ 2-3 bóng trở lên (trước và sau bóng lỗi) là an toàn nhất.
 
 # LED DẢI FULL 
 
