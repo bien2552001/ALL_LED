@@ -66,6 +66,7 @@
 
 ## * Chú ý led dây full
   + Chiều led chạy
+  + Cực màu led
   + Khi led lỗi hoặc chết bóng nên kiểm tra xem còn nhận tín hiệu không , nếu không thi thay từ 2-3 bóng trở lên (trước và sau bóng lỗi) là an toàn nhất.
 
 # LED DẢI FULL 
