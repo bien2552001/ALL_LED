@@ -102,7 +102,7 @@
 
 ## SUPERLED với H2-AC và F8_9883 không tự nháy
 - Cực màu F8_9883 trong Superled là : RGB
-- Chọn IC khi xuất file và trên bộ H2 đều là 9883.
+- Chọn IC khi xuất file và trên bộ H2 đều là 9883 hoặc 1903
 - Chặp dây green và blue lại rồi nối vào chân data bộ H2.
 
 
