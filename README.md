@@ -85,11 +85,25 @@
       + Khi xuất chương trình để nạp cho 2 mạch -> xuất dạng file thẻ nhớ.
       + Mạch 1 xuất từ cổng 1 sau đó lưu lại rồi bắt đầu xuất. Mạch 2 bắt đầu từ cổng 9, lưu lại rồi xuất.
 
+# Bộ đk H2-AC
+- 2 nút ngoài cùng tay trái: tăng giảm tốc độ tương ứng với LED 7 segment ngoài cùng tay phải
+- 2 nút bên cạnh từ trái sang: chọn chương trình ứng với LED 7 segment ngoài cùng tay phải vào 1 LED
+- nút Test : chọn CH-3 để test các loại led full thông thường.
+- nut Menu : Các chức năng như (IC, cực màu, tốc độ).
+  
+
+# PHẦN MỀM SUPERLED
+
+## SUPERLED với H2-AC và D30F tự nháy
+- Cực màu D30F tự nháy trong Superled là : BGR
+- Chọn IC khi xuất file và trên bộ H2 đều là 1903.
+- Dùng 1 dây data(green) nói vào chân data bộ điều khiển
 
 
-
-
-
+## SUPERLED với H2-AC và F8_9883 không tự nháy
+- Cực màu F8_9883 trong Superled là : RGB
+- Chọn IC khi xuất file và trên bộ H2 đều là 9883.
+- Chặp dây green và blue lại rồi nối vào chân data bộ H2.
 
 
 
