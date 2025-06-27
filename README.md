@@ -76,7 +76,9 @@
   
 ## IC_WS2813
 - **Cực màu**: GRB -- FULLMINI
-  
+## F8_9883
+- **Cực màu**: RGB -- H2-AC
+
 # MẠCH ĐIỀU KHIỂN FULL OZO : 4 CỔNG , 8 CỔNG 
 - Đều xuất file thẻ nhớ -> Format ổ đĩa của mạch -> Sau đó copy file đã xuất vào trong ổ đia vừa format.
 - Khi đồng bộ nhiều mạch như sau:
